@@ -19,3 +19,24 @@ height: 200px;
 h1{
     font-size: 50px;
 }
+
+figure{
+    margin-left: 0px;
+}
+
+address, time, p{
+    color: #808080;
+}
+
+a{
+    color: #3cb4e7;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #20a9e5;
+    color: white;
+}
