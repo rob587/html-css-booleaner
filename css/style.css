@@ -1,0 +1,21 @@
+body{
+    margin: 0px 200px 10px 200px;
+}
+
+header{
+    width: 100%;
+    height: 200px;
+    background-image: url("../img/pattern.png");
+    background-color:  #4ea0ff;
+    background-position: 0cm;
+}
+
+.logo{
+float: left;
+width: 200px;
+height: 200px;
+}
+
+h1{
+    font-size: 50px;
+}
